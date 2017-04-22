@@ -12,4 +12,4 @@ while count < 5:
     if not input_state:
         print "Button pressed #" + str(count)
         count += 1
-        time.sleep(0.2)
+        time.sleep(2)
